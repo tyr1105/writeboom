@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { ToolNetworkFooter } from "@/components/ToolNetworkFooter";
 
 export const metadata: Metadata = {
   title: "WriteBoom - 社交媒体爆款文案AI生成器 | 小红书·抖音·微博·B站",
@@ -55,7 +56,10 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased" style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}>
+        <div style={{ flex: 1 }}>{children}</div>
+        <ToolNetworkFooter />
+      </body>
     </html>
   );
 }
