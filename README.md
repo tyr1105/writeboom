@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 WriteBoom - 社交媒体爆款文案AI生成器
 
-## Getting Started
+<h3 align="center">AI 驱动 · 10秒出稿 · 多平台适配</h3>
 
-First, run the development server:
+<p align="center">
+  <a href="https://tyr1105.github.io/writeboom/">
+    <img src="https://img.shields.io/badge/在线使用-Live_Demo-orange?style=for-the-badge" alt="Live Demo">
+  </a>
+  <img src="https://img.shields.io/badge/价格-免费-green?style=for-the-badge" alt="Free">
+  <img src="https://img.shields.io/badge/无需注册-blue?style=for-the-badge" alt="No Signup">
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ 功能
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📕 **小红书** — 爆款笔记文案，3种风格任选
+- 🎵 **抖音** — 短视频标题+描述，5条文案一键生成
+- 🔥 **微博** — 140字内的犀利观点
+- 📺 **B站** — 视频标题+简介+封面建议
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 特点
 
-## Learn More
+- ⚡ 秒出稿 — 不用等，输入即出
+- 🔓 无需注册 — 打开就用
+- 💰 完全免费 — 不限次数
+- 📱 手机友好 — 随时随地创作
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 立即使用
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👉 https://tyr1105.github.io/writeboom/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔧 技术栈
 
-## Deploy on Vercel
+Next.js 16 | React 19 | Tailwind CSS 4 | TypeScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Made with ❤️ by [tyr1105](https://github.com/tyr1105)
